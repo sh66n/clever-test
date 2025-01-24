@@ -105,18 +105,7 @@ const OurServices = () => {
                   <a href="">Book now</a>
                 </div>
               </div>
-              <div className="m-1 flex flex-col text-center justify-evenly bg-white">
-                <div className="flex justify-center">
-                  <img src="/images/city-hall.png" alt="" />
-                </div>
-                <div className="text-2xl font-semibold">EVENTS VENUE</div>
-                <div>
-                  Choosing venues is one of the most important decisions
-                </div>
-                <div className="underline text-yellow-800">
-                  <a href="">Book now</a>
-                </div>
-              </div>
+              <div className="m-1 flex flex-col text-center justify-evenly"></div>
               <div className="rounded-br-xl m-1 flex flex-col text-center justify-evenly bg-white">
                 <div className="flex justify-center">
                   <img src="/images/cinema.png" alt="" />
