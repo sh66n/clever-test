@@ -35,7 +35,7 @@ const OurServices = () => {
                 </div>
                 <div className="text-2xl font-semibold">PRODUCTION STUDIO</div>
                 <div>
-                  Choosing venues is one of the most important decisions
+                  Alankaran production studio is distinct in terms of creating
                 </div>
                 <div className="underline text-yellow-800">
                   <a href="">Book now</a>
@@ -47,7 +47,7 @@ const OurServices = () => {
                 </div>
                 <div className="text-2xl font-semibold">SOUND & LIGHTNING</div>
                 <div>
-                  Choosing venues is one of the most important decisions
+                  Well-planned Sound & lighting is undoubtedly one of the
                 </div>
                 <div className="underline text-yellow-800">
                   <a href="">Book now</a>
@@ -61,7 +61,7 @@ const OurServices = () => {
                   PHOTOGRAPHY & VIDEOGRAPHY
                 </div>
                 <div>
-                  Choosing venues is one of the most important decisions
+                  Any event or any special day when it comes to capturing
                 </div>
                 <div className="underline text-yellow-800">
                   <a href="">Book now</a>
@@ -74,9 +74,7 @@ const OurServices = () => {
                 <div className="text-2xl font-semibold">
                   PERMISSION OR LICENSE
                 </div>
-                <div>
-                  Choosing venues is one of the most important decisions
-                </div>
+                <div>We at Alankaran provide the requisite permissions and</div>
                 <div className="underline text-yellow-800">
                   <a href="">Book now</a>
                 </div>
@@ -87,7 +85,7 @@ const OurServices = () => {
                 </div>
                 <div className="text-2xl font-semibold">SECURITY</div>
                 <div>
-                  Choosing venues is one of the most important decisions
+                  Alankaran assesses what risks the event is likely to face
                 </div>
                 <div className="underline text-yellow-800">
                   <a href="">Book now</a>
@@ -98,9 +96,7 @@ const OurServices = () => {
                   <img src="/images/shipped.png" alt="" />
                 </div>
                 <div className="text-2xl font-semibold">TRANSPORTATION</div>
-                <div>
-                  Choosing venues is one of the most important decisions
-                </div>
+                <div>Event transportation and Logistics are very important</div>
                 <div className="underline text-yellow-800">
                   <a href="">Book now</a>
                 </div>
@@ -111,9 +107,7 @@ const OurServices = () => {
                   <img src="/images/cinema.png" alt="" />
                 </div>
                 <div className="text-2xl font-semibold">ARTIST MANAGEMENT</div>
-                <div>
-                  Choosing venues is one of the most important decisions
-                </div>
+                <div>Artist management is one of the most important</div>
                 <div className="underline text-yellow-800">
                   <a href="">Book now</a>
                 </div>
