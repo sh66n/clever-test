@@ -3,6 +3,8 @@ import Navbar from "./Navbar";
 import CorporateMania from "./CorporateMania";
 import OurExpertise from "./OurExpertise";
 import Footer from "./Footer";
+import ContactForm from "./ContactForm";
+import OurServices from "./OurServices";
 
 const Landing = () => {
   return (
@@ -10,13 +12,11 @@ const Landing = () => {
       <Navbar />
       <CorporateMania />
       <OurExpertise />
-      <div className="w-18 h-18 fixed bottom-8 right-8 hover:cursor-pointer">
-        <img
-          src="/public/images/whatsapp-img.png"
-          alt=""
-          className="rounded-lg"
-        />
+      <OurServices />
+      <div className="w-14 h-14 fixed bottom-8 right-8 hover:cursor-pointer">
+        <img src="images/whatsapp-img.png" alt="" className="rounded-lg" />
       </div>
+      <ContactForm />
       <Footer />
     </div>
   );

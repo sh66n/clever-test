@@ -6,19 +6,17 @@ import ExpertiseDescription from "./ExpertiseDescription";
 
 const OurExpertise = () => {
   return (
-    <section className="bg-[#f0f0f0] py-12 px-28">
+    <section className="bg-[#f0f0f0] py-12 px-28 text-black">
       <div className="flex justify-center h-full">
-        <div className="w-[4rem] h-[2rem] text-yellow-500 font-bold my-6 mx-7  border-b-2"></div>
-        <h2 className="text-5xl text-yellow-500 py-6 font-bold flex">
+        <div className="w-[4rem] h-[2rem] border-yellow-800 font-bold my-6 mx-7  border-b-2"></div>
+        <h2 className="text-5xl text-yellow-800 py-6 font-bold flex">
           Our Expertise
         </h2>
-        <div className="w-[4rem] h-[2rem] text-yellow-500 font-bold my-6 mx-7  border-b-2"></div>
+        <div className="w-[4rem] h-[2rem] border-yellow-800 font-bold my-6 mx-7  border-b-2"></div>
       </div>
       <div className="grid grid-cols-3">
         <ExpertiseCard>
-          <ExpertiseImage
-            src={"public/images/Annual-Day-events-scaled-img.jpg"}
-          />
+          <ExpertiseImage src={"images/Annual-Day-events-scaled-img.jpg"} />
           <ExpertiseTitle>Annual Day Event</ExpertiseTitle>
           <ExpertiseDescription>
             Annual day events can be organized in every industry to show case
@@ -26,7 +24,7 @@ const OurExpertise = () => {
           </ExpertiseDescription>
         </ExpertiseCard>
         <ExpertiseCard>
-          <ExpertiseImage src={"public/images/Family-funday-events-img.jpg"} />
+          <ExpertiseImage src={"images/Family-funday-events-img.jpg"} />
           <ExpertiseTitle>Family Day</ExpertiseTitle>
           <ExpertiseDescription>
             Family Fun Days are an excellent way to reward the families of hard
@@ -34,7 +32,7 @@ const OurExpertise = () => {
           </ExpertiseDescription>
         </ExpertiseCard>
         <ExpertiseCard>
-          <ExpertiseImage src={"public/images/Team-outing-scaled-img.jpg"} />
+          <ExpertiseImage src={"images/Team-outing-scaled-img.jpg"} />
           <ExpertiseTitle>Team Outing</ExpertiseTitle>
           <ExpertiseDescription>
             Team outing is an exciting and a good opportunity to explore the new
@@ -42,7 +40,7 @@ const OurExpertise = () => {
           </ExpertiseDescription>
         </ExpertiseCard>
         <ExpertiseCard>
-          <ExpertiseImage src={"public/images/Institution-activity-img.jpg"} />
+          <ExpertiseImage src={"images/Institution-activity-img.jpg"} />
           <ExpertiseTitle>Institutional Activities</ExpertiseTitle>
           <ExpertiseDescription>
             We are the best Event Organisers in Hyderabad provide services to
@@ -51,7 +49,7 @@ const OurExpertise = () => {
           </ExpertiseDescription>
         </ExpertiseCard>
         <ExpertiseCard>
-          <ExpertiseImage src={"public/images/conference-ratan-tata-img.jpg"} />
+          <ExpertiseImage src={"images/conference-ratan-tata-img.jpg"} />
           <ExpertiseTitle>
             Conferences- Seminars- Exhibitions- Meetings
           </ExpertiseTitle>
@@ -61,7 +59,7 @@ const OurExpertise = () => {
           </ExpertiseDescription>
         </ExpertiseCard>
         <ExpertiseCard>
-          <ExpertiseImage src={"public/images/special-events-img.jpg"} />
+          <ExpertiseImage src={"images/special-events-img.jpg"} />
           <ExpertiseTitle>Special Events</ExpertiseTitle>
           <ExpertiseDescription>
             Special Event is a one-time event focused on a specific purpose such

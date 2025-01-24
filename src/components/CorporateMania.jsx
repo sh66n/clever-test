@@ -2,14 +2,14 @@ import React from "react";
 
 const CorporateMania = () => {
   return (
-    <section className="my-12 px-28">
+    <section className="my-12 px-28 bg-white">
       <div className="h-fit w-full flex justify-center">
         <div className="w-1/2">
           <div className="flex">
-            <h2 className="text-5xl text-yellow-500 py-6 font-bold">
+            <h2 className="text-5xl text-yellow-800 py-6 font-bold">
               Corporate Mania
             </h2>
-            <div className="flex-grow text-yellow-500 font-bold border-b-2 my-6 mx-7"></div>
+            <div className="flex-grow  font-bold border-b-2 border-yellow-800 my-6 mx-7"></div>
           </div>
           <p className="mb-4">
             Elevate your events with our expertise as a premier event planner in
@@ -28,7 +28,7 @@ const CorporateMania = () => {
           </p>
         </div>
         <div className="w-1/2 flex justify-end p-8">
-          <img src="/public/images/corporate-mania-img.jpg" alt="" />
+          <img src="images/corporate-mania-img.jpg" alt="" />
         </div>
       </div>
       <div className="">
