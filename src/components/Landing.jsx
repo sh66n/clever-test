@@ -13,7 +13,7 @@ const Landing = () => {
       <CorporateMania />
       <OurExpertise />
       <OurServices />
-      <div className="w-14 h-14 fixed bottom-8 right-8 hover:cursor-pointer">
+      <div className="w-14 h-14 fixed bottom-8 right-8 hover:cursor-pointer z-10">
         <img src="images/whatsapp-img.png" alt="" className="rounded-lg" />
       </div>
       <ContactForm />
